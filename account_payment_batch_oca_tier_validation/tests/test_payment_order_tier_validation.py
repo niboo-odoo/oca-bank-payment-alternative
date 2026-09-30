@@ -27,7 +27,7 @@ class TestPaymentOrderTierValidation(common.TransactionCase):
             {
                 "name": "John",
                 "login": "test1",
-                "groups_id": [Command.set(group_ids)],
+                "group_ids": [Command.set(group_ids)],
                 "email": "test@examlple.com",
             }
         )

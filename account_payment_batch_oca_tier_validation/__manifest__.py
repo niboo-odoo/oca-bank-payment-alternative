@@ -4,7 +4,7 @@
 {
     "name": "Account Payment Batch - Tier Validation",
     "summary": "Tier validation process on payment/debit orders",
-    "version": "18.0.1.0.0",
+    "version": "19.0.1.0.0",
     "license": "AGPL-3",
     "category": "Banking addons",
     "author": "Escodoo,Odoo Community Association (OCA)",
